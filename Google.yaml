@@ -52,6 +52,7 @@ payload:
   - DOMAIN-SUFFIX,clients6.google.com
   - DOMAIN-SUFFIX,market.android.com
   - DOMAIN-SUFFIX,settings.google.com
+  - DOMAIN-SUFFIX,app-measurement.com
   
   # === Android ===
   - DOMAIN-SUFFIX,android.com
