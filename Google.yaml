@@ -244,7 +244,7 @@ payload:
   # === Google CDN ===
   - DOMAIN-SUFFIX,gvt0.com
   - DOMAIN-SUFFIX,1e100.net
-  - DOMAIN-SUFFIX,googlevideo.com
+  #- DOMAIN-SUFFIX,googlevideo.com
   
   # === Google API 域名 ===
   - DOMAIN-SUFFIX,clientservices.googleapis.com
