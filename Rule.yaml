@@ -120,7 +120,7 @@ rule-providers:
     Crypto: { type: http, behavior: classical, url: 'https://raw.dler.io/dler-io/Rules/main/Clash/Provider/Crypto.yaml', path: ./Rules/Crypto, interval: 86400 }
     Discord: { type: http, behavior: classical, url: 'https://raw.dler.io/dler-io/Rules/main/Clash/Provider/Discord.yaml', path: ./Rules/Discord, interval: 86400 }
     Steam: { type: http, behavior: classical, url: 'https://raw.dler.io/dler-io/Rules/main/Clash/Provider/Steam.yaml', path: ./Rules/Steam, interval: 86400 }
-    TikTok: { type: http, behavior: classical, url: 'https://raw.dler.io/dler-io/Rules/main/Clash/Provider/TikTok.yaml', path: ./Rules/TikTok, interval: 86400 }
+    TikTok: { type: http, behavior: classical, url: 'https://ghfast.top/https://raw.githubusercontent.com/TABOO-QAQ/Clash-Rules/refs/heads/main/Provider/TikTok.yaml', path: ./Rules/TikTok, interval: 86400 }
     Speedtest: { type: http, behavior: classical, url: 'https://raw.dler.io/dler-io/Rules/main/Clash/Provider/Speedtest.yaml', path: ./Rules/Speedtest, interval: 86400 }
     PayPal: { type: http, behavior: classical, url: 'https://raw.dler.io/dler-io/Rules/main/Clash/Provider/PayPal.yaml', path: ./Rules/PayPal, interval: 86400 }
     Microsoft: { type: http, behavior: classical, url: 'https://raw.dler.io/dler-io/Rules/main/Clash/Provider/Microsoft.yaml', path: ./Rules/Microsoft, interval: 86400 }
