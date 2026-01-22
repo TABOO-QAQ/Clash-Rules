@@ -13,7 +13,7 @@ payload:
   - DOMAIN-SUFFIX,google.de
   - DOMAIN-SUFFIX,google.fr
   - DOMAIN-SUFFIX,google.co.uk
- # - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googleusercontent.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,gstatic.cn
