@@ -76,7 +76,7 @@ rule-providers:
     Netflix: { type: http, behavior: classical, url: 'https://raw.dler.io/dler-io/Rules/main/Clash/Provider/Media/Netflix.yaml', path: ./Rules/Media/Netflix, interval: 86400 }
     Spotify: { type: http, behavior: classical, url: 'https://raw.dler.io/dler-io/Rules/main/Clash/Provider/Media/Spotify.yaml', path: ./Rules/Media/Spotify, interval: 86400 }
     YouTube: { type: http, behavior: classical, url: 'https://raw.dler.io/dler-io/Rules/main/Clash/Provider/Media/YouTube.yaml', path: ./Rules/Media/YouTube, interval: 86400 }
-    Google: { type: http, behavior: classical, url: 'https://ghfast.top/https://raw.githubusercontent.com/TABOO-QAQ/Clash-Rules/refs/heads/main/Provider/Media/Google.yaml', path: ./Rules/Google, interval: 86400 }
+    Google: { type: http, behavior: classical, url: 'https://ghfast.top/https://raw.githubusercontent.com/TABOO-QAQ/Clash-Rules/refs/heads/main/Provider/Google.yaml', path: ./Rules/Google, interval: 86400 }
     Max: { type: http, behavior: classical, url: 'https://raw.dler.io/dler-io/Rules/main/Clash/Provider/Media/Max.yaml', path: ./Rules/Media/Max, interval: 86400 }
     Bilibili: { type: http, behavior: classical, url: 'https://raw.dler.io/dler-io/Rules/main/Clash/Provider/Media/Bilibili.yaml', path: ./Rules/Media/Bilibili, interval: 86400 }
     IQ: { type: http, behavior: classical, url: 'https://raw.dler.io/dler-io/Rules/main/Clash/Provider/Media/IQ.yaml', path: ./Rules/Media/IQI, interval: 86400 }
