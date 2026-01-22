@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,tiktokv.us
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,ttwebview.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
   # 关键词匹配（兜底）
   - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,tiktok
