@@ -412,7 +412,7 @@ rule-providers:
   TikTok:
     type: http
     behavior: classical
-    url: 'https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Clash/Provider/TikTok.yaml'
+    url: 'https://raw.githubusercontent.com/neigays/Clash-Rules/refs/heads/main/Provider/TikTok.yaml'
     path: ./Rules/TikTok
     interval: 86400
   Speedtest:
